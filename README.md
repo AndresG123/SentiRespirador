@@ -1,5 +1,7 @@
 # SentiRespirador
 
+![Senti](https://github.com/AndresG123/SentiRespirador/blob/master/Imagenes/respidaroLateral.jpg)
+
 Este proyecto tiene como objetivo automatizar la presión que una persona(Enfermero, medico o acompañante) ejerce sobre un ambu para ayudar a un paciente y de esta forma una sola persona pueda monitorear varios pacientes al tiempo.
 
 Se divide en 2 partes: Dispostivos y App.
@@ -21,7 +23,7 @@ Fuente 12v = 10.000
 MOD = 0
 CIF = 0
 
-https://github.com/AndresG123/SentiRespirador/blob/master/Imagenes/respidaroLateral.jpg
+
 
 
 
