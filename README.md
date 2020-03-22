@@ -11,9 +11,20 @@ La App grafica en tiempo real los valores que recibe del sensores de presión di
 conectado al torax del paciente.
 
 El costo del dispositivo varia de acuerdo a los materiales y sensores utilizados.
-Costo primo del dispositivo versión económica: 80.000$ colombianos sin el Ambu.
+Costo primo del dispositivo versión económica: 90.000$ colombianos sin el Ambu.
 
 ServoMotores: 40.000. (Es recomendable cambiarlos por motores de paso, buscando mejor torque y durabilidad)
 Placa controladora: 10.000
 Impresión 3d (impresión propia) = 20.000
 Componentes varios = 10.000
+Fuente 12v = 10.000
+
+MOD = 0
+CIF = 0
+
+
+
+
+
+
+
