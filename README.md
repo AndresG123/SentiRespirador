@@ -22,6 +22,8 @@ Fuente 12v = 10.000
 MOD = 0
 CIF = 0
 
+https://github.com/AndresG123/SentiRespirador/blob/master/Imagenes/dispoLateral.jpg
+
 
 
 
